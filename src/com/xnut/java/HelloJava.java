@@ -13,6 +13,9 @@ public class HelloJava {
                 count++;
                 if(count % 5 ==0) {
                     System.out.println("");
+                    System.out.println("");
+                    System.out.println("");
+                    System.out.println("");
                 }
             }
 
